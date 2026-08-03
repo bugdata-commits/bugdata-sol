@@ -1,2 +1,7 @@
-# Local Netlify folder
-.netlify
+node_modules/
+dist/
+build/
+.netlify/
+*.log
+.DS_Store
+Thumbs.db
